@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Tetris</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Tetris</string>
+	<string name="Play">play</string>	
+	<string name="Date">Choose the Date</string>   
+	 <string-array name="Date_Log">
+	     <item>Choose the Date</item>
+	     <item>07-20-2014</item>
+	     <item>07-21-2014</item>
+	     <item>07-26-2014</item>
+	     <item>07-27-2014</item>
+	     </string-array>
+	
+</resources>
